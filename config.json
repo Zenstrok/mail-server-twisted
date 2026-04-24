@@ -1,0 +1,17 @@
+{
+    "domains": [
+        "mariojimenez.tech"
+    ],
+
+    "users": {
+        "mariojimenez": {
+            "password": "jjimenez217",
+            "xmpp_jid": "mariojimenez@jabber.fr"
+        }
+    },
+
+    "xmpp": {
+        "jid": "notificador.mariojimenez@jabber.fr",
+        "password": "jjimenez217"
+    }
+}

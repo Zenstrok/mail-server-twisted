@@ -1,0 +1,14 @@
+Subject: Hola {{nombre}}, mensaje personalizado
+Attachments: documentos/bienvenida.pdf, documentos/instrucciones.txt
+
+Estimado/a {{nombre}},
+
+Este es un correo de prueba enviado desde el cliente SMTP de la tarea de Redes.
+
+Tu dirección de correo registrada es: {{email}}
+
+Este mensaje fue generado automáticamente. Puedes agregar más columnas
+en el CSV y referenciarlas aquí usando la sintaxis {{nombre_columna}}.
+
+Saludos,
+El servidor de prueba

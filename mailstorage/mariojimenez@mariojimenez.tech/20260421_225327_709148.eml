@@ -1,0 +1,21 @@
+Received: from [127.0.1.1] by smtpserver (Twisted) ; Tue, 21 Apr 2026 22:53:27 +0000
+Content-Type: multipart/mixed; boundary="===============8166185131429196961=="
+MIME-Version: 1.0
+From: remitente@servidor.com
+To: mariojimenez@mariojimenez.tech
+Subject: Hola Mario, mensaje personalizado
+
+--===============8166185131429196961==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RXN0aW1hZG8vYSBNYXJpbywKCkVzdGUgZXMgdW4gY29ycmVvIGRlIHBydWViYSBlbnZpYWRvIGRl
+c2RlIGVsIGNsaWVudGUgU01UUCBkZSBsYSB0YXJlYSBkZSBSZWRlcy4KClR1IGRpcmVjY2nDs24g
+ZGUgY29ycmVvIHJlZ2lzdHJhZGEgZXM6IG1hcmlvamltZW5lekBtYXJpb2ppbWVuZXoudGVjaAoK
+RXN0ZSBtZW5zYWplIGZ1ZSBnZW5lcmFkbyBhdXRvbcOhdGljYW1lbnRlLiBQdWVkZXMgYWdyZWdh
+ciBtw6FzIGNvbHVtbmFzCmVuIGVsIENTViB5IHJlZmVyZW5jaWFybGFzIGFxdcOtIHVzYW5kbyBs
+YSBzaW50YXhpcyB7e25vbWJyZV9jb2x1bW5hfX0uCgpTYWx1ZG9zLApFbCBzZXJ2aWRvciBkZSBw
+cnVlYmE=
+
+--===============8166185131429196961==--
