@@ -1,0 +1,4 @@
+twisted
+pyopenssl
+service_identity
+slixmpp

@@ -1,0 +1,15 @@
+{
+    "domains": [
+        "mariojimenez.tech"
+    ],
+    "users": {
+        "mariojimenez": {
+            "password": "your-pop3-password",
+            "xmpp_jid": "your-user@jabber.example"
+        }
+    },
+    "xmpp": {
+        "jid": "your-bot@jabber.example",
+        "password": "your-bot-password"
+    }
+}
